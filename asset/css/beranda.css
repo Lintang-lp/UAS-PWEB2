@@ -1,0 +1,71 @@
+.jumbotron > h1,
+p {
+	margin-left: 250px;
+}
+
+.card {
+	border: none;
+	border-radius: 10px;
+	margin-left: 50px;
+}
+
+.c-details span {
+	font-weight: 300;
+	font-size: 13px;
+}
+
+.icon {
+	width: 50px;
+	height: 50px;
+	margin-right: 15px;
+	background-color: #eee;
+	border-radius: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 39px;
+}
+
+.icon i {
+	padding-top: 10px;
+	padding-left: 8px;
+	font-size: 40px;
+}
+
+.badge span {
+	background-color: #fffbec;
+	width: 60px;
+	height: 25px;
+	padding-bottom: 3px;
+	border-radius: 5px;
+	display: flex;
+	color: #fed85d;
+	justify-content: center;
+	align-items: center;
+}
+
+.text1 {
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.text2 {
+	color: #a5aec0;
+}
+
+/* ----------------------------FOOTER----------------------------- */
+footer {
+	height: 60px;
+	background: #212121;
+	color: white;
+	display: flex;
+	box-shadow: -5px -5px 10px rgb(0, 0, 0, 0.3);
+}
+footer > h6 {
+	padding-top: 20px;
+	text-align: center;
+	font-family: "Lexend Deca", sans-serif;
+	letter-spacing: 3px;
+	color: #999;
+	font-weight: bold;
+}

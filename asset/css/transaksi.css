@@ -1,0 +1,34 @@
+.jumbotron > h2 {
+	padding-left: 250px;
+}
+.form-horizontal {
+	padding-left: 250px;
+	width: 900px;
+}
+.table_main {
+	width: 800px;
+}
+.col-sm-3 {
+	padding-top: 7px;
+	padding-bottom: 4px;
+}
+.col-sm-3,
+.col-sm-5 {
+	float: left;
+}
+/* ----------------------------FOOTER----------------------------- */
+footer {
+	height: 60px;
+	background: #212121;
+	color: white;
+	display: flex;
+	box-shadow: -5px -5px 10px rgb(0, 0, 0, 0.3);
+}
+footer > h6 {
+	padding-top: 20px;
+	text-align: center;
+	font-family: "Lexend Deca", sans-serif;
+	letter-spacing: 3px;
+	color: #999;
+	font-weight: bold;
+}
